@@ -8,7 +8,7 @@ public class task1 {
         FileReader fr=new FileReader("C:\\Users\\banksy\\IdeaProjects\\Lecture\\src\\com\\test\\jpg01.jpg");
         BufferedReader br=new BufferedReader(fr);
         //创建一个BufferedWriter缓冲对象
-        FileWriter fw=new FileWriter("C:\\Users\\banksy\\IdeaProjects\\Lecture\\src\\com\\test\\jpg02.jpg");
+        FileWriter fw=new FileWriter("C:\\Users\\banksy\\IdeaProjects\\Lecture\\src\\com\\test\\jpg03.jpg");
         BufferedWriter bw=new BufferedWriter(fw);
         String s;
         //判断是否到文本文件末尾
